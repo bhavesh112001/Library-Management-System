@@ -11,5 +11,3 @@ create table user(
 Book_name varchar(300),
 Author varchar(300));
 
-
-show tables
